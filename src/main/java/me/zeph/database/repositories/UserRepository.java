@@ -1,4 +1,4 @@
-package me.zeph.database;
+package me.zeph.database.repositories;
 
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoCollection;
